@@ -9,7 +9,7 @@ This repository provides complete programming solutions for Section A of the Jun
 - Covers multiple programming concepts
 
 **Language Composition**
-- The project primarily uses Python, with supporting files in other languages as needed.
+- The project primarily uses C, with supporting files in other languages as needed.
 
 **Author**
 - Repository maintained by [DCT-Berinyuy](https://github.com/DCT-Berinyuy).
